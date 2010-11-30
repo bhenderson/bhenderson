@@ -1,0 +1,10 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/bhenderson
+lib/bhenderson.rb
+lib/hoe
+lib/hoe/bhenderson.rb
+test/test_bhenderson.rb

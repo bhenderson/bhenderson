@@ -1,0 +1,3 @@
+class Bhenderson
+  VERSION = '1.0.0'
+end
